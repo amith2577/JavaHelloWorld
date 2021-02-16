@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0E31-23B5
+
+ Directory of C:\Users\91889\Downloads\JavaProject
+
+16-02-2021  15:55    <DIR>          .
+16-02-2021  15:55    <DIR>          ..
+16-02-2021  15:54    <DIR>          .git
+16-02-2021  15:19               671 Test.class
+16-02-2021  14:52               144 Test.java
+16-02-2021  15:55                 0 test.txt
+               3 File(s)            815 bytes
+               3 Dir(s)  63,666,561,024 bytes free
